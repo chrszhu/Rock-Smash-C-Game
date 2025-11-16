@@ -1,0 +1,1 @@
+Rock-Smash-C-Game is a classic arcade game where players dig through caves, collect gems, avoid falling rocks, and outsmart enemies. The goal is to navigate each level strategically and reach the exit before time runs out, combining puzzle-solving with fast-paced action.
